@@ -1,4 +1,4 @@
-# Analysis on time series data using Linear Regression.
+# Analysis on Time Series Data Using Linear Regression
 
 ## Overview
 The data is preprocessed, scaled, and used to create datasets for prediction periods of 10, 20, and 30.
